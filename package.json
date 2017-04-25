@@ -49,10 +49,10 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "lodash": "^3.0.1",
+    "lodash": "^4.17.4",
     "min-dom": "^0.2.0"
   },
   "peerDependencies": {
-    "diagram-js": "^0.x"
+    "diagram-js": "https://github.com/hrishabhkumar/diagram-js.git"
   }
 }

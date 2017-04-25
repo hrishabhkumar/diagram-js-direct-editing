@@ -5,7 +5,7 @@ require('diagram-js/test/TestHelper');
 /* global bootstrapDiagram, inject */
 
 
-var forEach = require('lodash/collection/forEach');
+var forEach = require('lodash/forEach');
 
 var directEditingModule = require('../../');
 
